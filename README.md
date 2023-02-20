@@ -1,2 +1,2 @@
 # Notes
-My notes
+My notes. In LaTeX because word is too hard.
